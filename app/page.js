@@ -36,8 +36,10 @@ export default  function Home(){
    <div className="px-20 py-2 w-full mt-20 h-[100px] text-center">
    <h1>
       &copy; 2024 Eng Abdalla. All rights reserved
+     
     
     </h1>
+     <h1>Thanks </h1>
  
    </div>
    </div>
